@@ -1,4 +1,4 @@
-# Hi, my name is Bobi!
+# Hi wave.gif, my name is Bobi!
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BorisAnastasov&theme=transparent&show_icons=true)
