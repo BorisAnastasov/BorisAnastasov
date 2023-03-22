@@ -1,5 +1,4 @@
-### Hi there 👋
+Hi, there! My name is Bobi!
 
 
-
-https://camo.githubusercontent.com/edbcb9a1a8a6752df7caa12a132d96ee0f9ac8b3b024ad7c9dca384f398cbe32/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d76696b746f72346f752673686f775f69636f6e733d74727565266c6f63616c653d656e
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
