@@ -24,3 +24,5 @@ I am from Bulgaria and am 17 years old. I like to code. In the moment i'm lernin
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorisAnastasov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://visitcount.itsvg.in/api?id=BorisAnastasov&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BorisAnastasov)](https://git.io/streak-stats)
