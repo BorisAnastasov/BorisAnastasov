@@ -12,6 +12,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BorisAnastasov&theme=transparent&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorisAnastasov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=BorisAnastasov&label=Profile%20Views&color=1&pretty=false" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=BorisAnastasov&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
