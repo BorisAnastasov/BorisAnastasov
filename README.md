@@ -1,7 +1,7 @@
 <h2 align="center">
 <img src="programmer.jpg"
-     width="100"
-          height="100"
+     width="300"
+          height="250"
      
      />
 </h2>
