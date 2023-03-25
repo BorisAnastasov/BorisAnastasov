@@ -1,5 +1,9 @@
 <h2 align="center">
-<img src="programmer.jpg"/>
+<img src="programmer.jpg"
+     width="45"
+          height="45"
+     
+     />
 </h2>
 <h3 align="center">
      Hi threre!      
