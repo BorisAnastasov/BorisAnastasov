@@ -1,6 +1,6 @@
 
 <h3 align="center">
-     Hi     
+     Hi threre!      
      <img src="https://discordemoji.com/assets/emoji/wavegif_1860.gif"
           alt="animated waving hand emoji"
           width="45"
