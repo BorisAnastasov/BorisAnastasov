@@ -1,5 +1,5 @@
 <h2 align="center">
-<img src="programer.avif"/>
+<img src="programmer.jpg"/>
 </h2>
 <h3 align="center">
      Hi threre!      
