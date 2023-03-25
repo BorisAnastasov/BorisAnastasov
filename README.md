@@ -10,10 +10,11 @@
           width="45"
           height="45"
           style="margin-bottom: -10px" />
-     I'm Bobi
-     
-    I am from Bulgaria and am 17 years old. I like to code. In the moment i'm lerning the programming language-C# at Software University-SoftUni. My future plans are to continue with programing, maybe  learn another language and make my expirience in the IT sphere bigger.  
+     I'm Bobi  
 </h3>
+<h2>
+I am from Bulgaria and am 17 years old. I like to code. In the moment i'm lerning the programming language-C# at Software University-SoftUni. My future plans are to continue with programing, maybe  learn another language and make my expirience in the IT sphere bigger.  
+</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BorisAnastasov&theme=transparent&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorisAnastasov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
