@@ -12,4 +12,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BorisAnastasov&theme=transparent&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorisAnastasov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://visitcount.itsvg.in/api?id=BorisAnastasov&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=BorisAnastasov&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
