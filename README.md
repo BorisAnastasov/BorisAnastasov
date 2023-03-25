@@ -1,4 +1,6 @@
-
+<h2 align="center">
+<img src="programer.avif"/>
+</h2>
 <h3 align="center">
      Hi threre!      
      <img src="https://discordemoji.com/assets/emoji/wavegif_1860.gif"
