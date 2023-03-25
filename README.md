@@ -1,9 +1,7 @@
 <h2 align="center">
 <img src="programmer.jpg"
      width="500"
-          height="400"
-     
-     />
+          height="400"/>
 </h2>
 <h3 align="center">
      Hi threre!      
