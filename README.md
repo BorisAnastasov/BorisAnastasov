@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Boris</h1>
-<h3 align="center">A passionate frontend developer from Bulgaria</h3>
+<h1 align="center">Hi there 👋, I'm Boris</h1>
+<h3 align="center">A passionate student from Bulgaria, who wants to be a developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=borisanastasov" alt="borisanastasov" /></a> </p>
 
@@ -7,10 +7,12 @@
 
 - 🌱 I’m currently learning **C#, JavaScript, HTML and CSS**
 
-- 📫 How to reach me: **boris_ywu@abv.bg**
+- 📫 How to reach me: **boris_ywu@abv.bg or (linkedin)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://stackoverflow.com/users/20905522" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20905522" height="30" width="40" /></a>
+<a href="https://discord.gg/2987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2987" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
