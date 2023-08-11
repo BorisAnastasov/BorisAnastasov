@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Boris</h1>
-<h3 align="center">A passionate student from Bulgaria, who wants to be a developer</h3>
+<h3 align="center">A passionate student from Bulgaria, who wants to be a software developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=borisanastasov" alt="borisanastasov" /></a> </p>
 
