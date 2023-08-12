@@ -1,3 +1,4 @@
+<img src = "imageHeader.jfif">
 <h1 align="center">Hi there 👋, I'm Boris</h1>
 <h3 align="center">A passionate student from Bulgaria, who wants to be a software developer</h3>
 
