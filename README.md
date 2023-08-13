@@ -1,3 +1,6 @@
+<div align = "center">
+  <img src = "imageHeader.jfif">
+</div>
 <h1 align="center">Hi 👋, I'm Boris</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria</h3>
 
