@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C#, HTML and CSS**
 
-- 👨‍💻 All of my projects are public [be sure to check them](be sure to check them)
+- 👨‍💻 All of my projects are public be sure to check them
 
 - 📫 How to reach me: **boris_ywu@abv.bg**
 
