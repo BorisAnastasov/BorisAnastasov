@@ -1,4 +1,4 @@
-<div align = "center" width: 50%>
+<div align = "center" width: 30%>
   <img src = "image.jfif">
 </div>
 <h1 align="center">Hi 👋, I'm Boris</h1>
