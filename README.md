@@ -1,5 +1,5 @@
-<div align = "center" width: 30%>
-  <img src = "image.jfif">
+<div align = "center">
+  <img src = "image.jfif"  width = "20%">
 </div>
 <h1 align="center">Hi 👋, I'm Boris</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria</h3>
