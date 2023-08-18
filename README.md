@@ -6,6 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=borisanastasov" alt="borisanastasov" /></a> </p>
 
+### About me:
 - 🔭 I’m currently working on **developing programming skills**
 
 - 🌱 I’m currently learning **C#, HTML and CSS**
