@@ -1,6 +1,6 @@
 <div align = "center">
   <img src = "image.jfif"  width = "50%">
-</div>   
+</div>  
 <h1 align="center">Hi 👋, I'm Boris</h1>
 <h3 align = "center">A passionate software developer from Bulgaria
 </h3>
