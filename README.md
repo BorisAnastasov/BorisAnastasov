@@ -20,7 +20,7 @@
 ### Connect with me:
 <p align="left">
 <a href="https://stackoverflow.com/users/20905522" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20905522" height="30" width="40" /></a>
-<a href="https://discord.gg/2987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2987" height="30" width="40" /></a>
+<a href="https://discord.gg/bobipro06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2987" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
