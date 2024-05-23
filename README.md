@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **boris_ywu@abv.bg**
 
-- ⚡ Fun fact **I am 17 years old**
+- ⚡ Fun fact **I am 18 years old**
 
 ### Connect with me:
 <p align="left">
