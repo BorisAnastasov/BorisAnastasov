@@ -1,5 +1,5 @@
 <div align = "center">
-  <img src = "image.jfif"  width = "50%">
+  <img src = "helloWorld.gif"  width = "50%">
 </div>
 <h1 align="center">Hi 👋, I'm Boris Anastasov</h1>
 <h3 align="center">A passionate software developer from Bulgaria</h3>
