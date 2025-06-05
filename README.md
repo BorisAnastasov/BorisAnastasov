@@ -26,4 +26,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=borisanastasov&" alt="borisanastasov" /></p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borisanastasov&layout=pie&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borisanastasov&layout=pie&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
