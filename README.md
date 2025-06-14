@@ -24,21 +24,19 @@
 <table>
   <tr>
     <td>
-      <!-- Left column: stacked cards -->
       <img src="https://github-readme-stats.vercel.app/api?username=borisanastasov&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-      <br />
+      <br style="margin-bottom: 10px;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=borisanastasov&theme=tokyonight" alt="GitHub Streak" />
     </td>
-    <td valign="top">
-      <!-- Right column: pie chart layout -->
+    <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=borisanastasov&layout=pie&theme=tokyonight"
-          alt="Top Languages (Pie Chart)" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borisanastasov&layout=pie&theme=tokyonight" alt="Top Languages (Pie Chart)" />
       </a>
     </td>
   </tr>
 </table>
+
+
 
 
 
