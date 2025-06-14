@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borisanastasov&label=Profile%20views&color=0e75b6&style=flat" alt="borisanastasov" /> </p>
 
-- 🔭 I’m currently working on **LearnSpace**
+- 🔭 I’m currently working on a project called **LearnSpace**
 
 - 📫 How to reach me **boris_ywu@abv.bg**
 
