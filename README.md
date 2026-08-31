@@ -1,9 +1,9 @@
 <div align="center">
   <img src="helloWorld.gif" width="50%" alt="Hello World Animation" />
 </div>
-
-# 👋 Hi, I'm Boris Anastasov
-
+<div align="center">
+  <h1>👋 Hi, I'm Boris Anastasov</h1>
+</div>
 <h3 align="center">Junior Developer | Backend Enthusiast | API Developer</h3>
 
 <p align="center">
@@ -59,7 +59,7 @@ I'm a junior developer with a passion for **backend development** and **API desi
 
 ---
 
-## 🤝 Let's Connect
+<h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/boris-anastasov-049aa128b" target="_blank">
